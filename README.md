@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1107611319.svg)](https://doi.org/10.5281/zenodo.17777782)
+
 # llm-linguistic-fingerprints
 
 This repository contains the dataset and code used in the paper: Identifying the Linguistic Fingerprints of Generative AI: A Comparative Analysis of Gemma-2B and Mistral-7B
